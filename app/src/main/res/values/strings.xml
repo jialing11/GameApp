@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ColorsTap</string>
+    <string name="start_game">Start Game</string>
+    <string name="_0">0</string>
+    <string name="your_high_score">Your High Score :</string>
+    <string name="_01">0</string>
+    <string name="level_1">Level 1</string>
+    <string name="score">Score :</string>
+    <string name="mute">mute</string>
+    <string name="open">open</string>
+</resources>
